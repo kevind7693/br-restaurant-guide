@@ -5,5 +5,5 @@ Select a restaurant:
 ## Tanoreen
 ## The Family Store
 ---
-[Back to European](european.md)
+[Back to European](european.md)  
 [Start Over](../home.md) 
